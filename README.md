@@ -1,2 +1,2 @@
 # Social-site
-Social site
+Tech stack - for backend( DJANGO)
